@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/../api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/../config-server/config-server.iml" filepath="$PROJECT_DIR$/../config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../student-management/student-management.iml" filepath="$PROJECT_DIR$/../student-management/student-management.iml" />
       <module fileurl="file://$PROJECT_DIR$/../transaction-service/transaction-service.iml" filepath="$PROJECT_DIR$/../transaction-service/transaction-service.iml" />
     </modules>
   </component>

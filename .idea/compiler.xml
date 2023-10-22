@@ -10,6 +10,7 @@
         <module name="api-gateway" />
         <module name="config-server" />
         <module name="transaction-service" />
+        <module name="student-management" />
         <module name="account-service" />
         <module name="service-registry" />
       </profile>
@@ -19,7 +20,9 @@
       <module name="account-service (1)" target="17" />
       <module name="api-gateway" target="17" />
       <module name="config-server" target="17" />
+      <module name="fundmanager-ui" target="17" />
       <module name="service-registry" target="17" />
+      <module name="student-management" target="11" />
       <module name="transaction-service" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -29,7 +32,9 @@
       <module name="account-service (1)" options="-parameters" />
       <module name="api-gateway" options="-parameters" />
       <module name="config-server" options="-parameters" />
+      <module name="fundmanager-ui" options="-parameters" />
       <module name="service-registry" options="-parameters" />
+      <module name="student-management" options="-parameters" />
       <module name="transaction-service" options="-parameters" />
     </option>
   </component>
